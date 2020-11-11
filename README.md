@@ -1,3 +1,5 @@
+![cover github](https://github.com/cristineguadelupe/cristineguadelupe/blob/main/images/cover.png)  
+
 ### Hi there 👋
 
 <!--
