@@ -7,7 +7,8 @@
 
 Take a look on my tiny games made with Phoenix LiveView!
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=crosstheroad&theme=nightowl)](https://github.com/cristineguadelupe/crosstheroad)
+[![Cross the road](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=crosstheroad&theme=nightowl)](https://github.com/cristineguadelupe/crosstheroad)
+[![Master Key](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=masterkey&theme=nightowl)](https://github.com/cristineguadelupe/masterkey)
 
 <!--
 **cristineguadelupe/cristineguadelupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
