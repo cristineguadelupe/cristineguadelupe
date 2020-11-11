@@ -5,6 +5,10 @@
 
 ### Hi there 👋
 
+Take a look on my tiny games made with Phoenix LiveView!
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=crosstheroad&theme=nightowl)](https://github.com/cristineguadelupe/crosstheroad)
+
 <!--
 **cristineguadelupe/cristineguadelupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
