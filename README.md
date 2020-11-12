@@ -10,6 +10,8 @@ Take a look on my tiny games made with Phoenix LiveView!
 [![Cross the road](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=crosstheroad&theme=nightowl)](https://github.com/cristineguadelupe/crosstheroad)
 [![Master Key](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=masterkey&theme=nightowl)](https://github.com/cristineguadelupe/masterkey)
 
+![](https://komarev.com/ghpvc/?username=cristineguadelupe&color=blueviolet)
+
 <!--
 **cristineguadelupe/cristineguadelupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
