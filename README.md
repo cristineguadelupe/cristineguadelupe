@@ -1,4 +1,4 @@
-![cover github](https://github.com/cristineguadelupe/cristineguadelupe/blob/main/images/cover.png)  
+![cover github](https://github.com/cristineguadelupe/cristineguadelupe/blob/main/images/cover.jpg)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristineguadelupe&layout=compact&theme=nightowl)](#)
 [![Cristine's github stats](https://github-readme-stats.vercel.app/api?username=cristineguadelupe&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](#)
