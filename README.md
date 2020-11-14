@@ -10,6 +10,7 @@ Take a look on my tiny games made with Phoenix LiveView!
 [![Cross the road](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=crosstheroad&theme=nightowl)](https://github.com/cristineguadelupe/crosstheroad)
 [![Master Key](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=masterkey&theme=nightowl)](https://github.com/cristineguadelupe/masterkey)
 [![Lentokone](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=lentokone&theme=nightowl)](https://github.com/cristineguadelupe/lentokone)
+[![TetrisLive](https://github-readme-stats.vercel.app/api/pin/?username=cristineguadelupe&repo=tetris&theme=nightowl)](https://github.com/cristineguadelupe/tetris)
 
 ![](https://komarev.com/ghpvc/?username=cristineguadelupe&color=blueviolet)
 
