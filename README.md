@@ -4,6 +4,7 @@
 [![Cristine's github stats](https://github-readme-stats.vercel.app/api?username=cristineguadelupe&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](#)
 
 ### Hey there! 👋
+I'm Cristine Guadelupe, an autistic woman (with eds because genetics is my strength) trying to thrive as a programmer! Learning Elixir :) --- She/They --- 🏳️‍🌈 ♿ ---
 
 
 ![](https://komarev.com/ghpvc/?username=cristineguadelupe&color=blueviolet)
